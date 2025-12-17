@@ -1,0 +1,15 @@
+{
+  "AUC": 1.0,
+  "Average_Precision": -0.9999999999999999,
+  "Threshold_used": 0.5827330453985964,
+  "TP": 46,
+  "FP": 0,
+  "TN": 954,
+  "FN": 0,
+  "Accuracy": 1.0,
+  "Precision": 1.0,
+  "Recall": 1.0,
+  "F1": 1.0,
+  "Specificity": 1.0,
+  "R-Precision": 1.0
+}

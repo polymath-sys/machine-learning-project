@@ -1,0 +1,11 @@
+{
+  "AUC_conventional_pos_label_1": 0.9543264024258176,
+  "Average_Precision_conventional_pos_label_1": 0.9876757134399106,
+  "Best_threshold_by_F1": 0.12845830471364394,
+  "Best_F1": 0.9495925143374585,
+  "TP": 1573,
+  "FP": 120,
+  "TN": 222,
+  "FN": 47,
+  "Accuracy": 0.9148827726809379
+}
