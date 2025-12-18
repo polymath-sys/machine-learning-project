@@ -3,8 +3,8 @@ by
 ADITYA PANDEY - (102303968) ;
 RYAN MTTAL    - (102313031)
 
-# Drone-Guard: A Self-Supervised Deep Learning Framework for Spatiotemporal Anomaly Detection in UAV Surveillance Videos
-(Drone Guard is just a name for this project)
+# A Self-Supervised Deep Learning Framework for Spatiotemporal Anomaly Detection in UAV Surveillance Videos
+
 
 <a href="static/videos/Bike_video.gif" target="_blank">
     <image style="border: 2px solid rgb(201, 196, 196);" src="static/videos/Bike_video.gif"  width="100%">
