@@ -3,7 +3,7 @@ by
 ADITYA PANDEY - (102303968) ;
 RYAN MTTAL    - (102313031)
 
-# A Self-Supervised Deep Learning Framework for Spatiotemporal Anomaly Detection Surveillance Videos
+# Self-Supervised Anomaly Detection in Surveillance Videos
 
 
 <a href="static/videos/Bike_video.gif" target="_blank">
