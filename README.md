@@ -1,14 +1,10 @@
+This project for Machine Learning (UML501)
+by 
+ADITYA PANDEY - 102303968
+RYAN MTTAL    - 102313031
+
 # Drone-Guard: A Self-Supervised Deep Learning Framework for Spatiotemporal Anomaly Detection in UAV Surveillance Videos
-This is the code for **[Drone-Guard: A Self-Supervised Deep Learning Framework for Spatiotemporal Anomaly Detection in UAV Surveillance Videos](https://github.com/slitiWassim/Drone-Guard)** .
-
-### [Project](https://slitiwassim.github.io/Drone-Guard/) | [Video](https://www.youtube.com/watch?v=c4U8tkQkX7g) | [Paper]()
- 
-## Related Works
-> **ANDT**: See [ANDT : Anomaly detection in aerial videos with transformers ](https://github.com/Jin-Pu/Drone-Anomaly).
-
-> **HSTforU**: See [HSTforU: Anomaly Detection in Aerial and Ground-based Videos with Hierarchical Spatio-Temporal Transformer for U-net](https://github.com/vt-le/HSTforU/tree/main).
-
-> **FastAno**: See [FastAno: Fast Anomaly Detection via Spatio-temporal Patch Transformation](https://github.com/codnjsqkr/FastAno_official).
+(Drone Guard is just a nickname for this project)
 
 <a href="static/videos/Bike_video.gif" target="_blank">
     <image style="border: 2px solid rgb(201, 196, 196);" src="static/videos/Bike_video.gif"  width="100%">
@@ -30,12 +26,9 @@ Install the required packages:
 
     pip install -r requirements.txt
   
-Clone this repo:
+Clone this repo
 
-    git clone https://github.com/slitiWassim/Drone-Guard.git
-    cd Drone-Guard/
-
-We evaluate `Drone-Guard` on:
+We evaluate on:
 | Dataset | Link                                                                                  |
 |--|---------------------------------------------------------------------------------------|
 | UCSD Ped2 | [![Google drive](https://badgen.net/static/Homepage/Ped2/blue)](http://www.svcl.ucsd.edu/projects/anomaly/dataset.html) |
@@ -184,19 +177,3 @@ python -m torch.distributed.launch --nproc_per_node 4 --master_port 12345 train.
  * We use [YAML](https://yaml.org/) for configuration.
  * We provide a couple preset configurations.
  * Please refer to `config.py` for documentation on what each configuration does.
-
-## Citing
-If you find our work useful, please consider citing:
-```BibTeX
-Paper submitted 
-
-```
-
-## Contact
-For any question, please file an [issue](https://github.com/slitiWassim/Drone-Guard/issues) or contact:
-
-    Wassim Sliti : wassim.sliti@ept.ucar.tn
-
-## Acknowledgement
-
-The code is built on top of code provided by Le et al. [ github ](https://github.com/vt-le/astnet.git)  
