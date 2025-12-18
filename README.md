@@ -1,7 +1,7 @@
 This project for Machine Learning (UML501)
 by 
-ADITYA PANDEY - 102303968
-RYAN MTTAL    - 102313031
+ADITYA PANDEY - (102303968) ;
+RYAN MTTAL    - (102313031)
 
 # Drone-Guard: A Self-Supervised Deep Learning Framework for Spatiotemporal Anomaly Detection in UAV Surveillance Videos
 (Drone Guard is just a nickname for this project)
